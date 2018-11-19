@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  margin: 10px auto;
+}
+
+.logo {
+  background-image: url('../images/logo.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 40px;
+  width: 200px;
+}
+
+.button {
+    font-size: 20px;
+    border: 1px solid #ff52bf;
+    border-radius: 30px;
+    padding: 3px 20px;
+    color: #ff52bf;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+}
+.button:hover{
+  background-color: rgba(255, 82, 192, 0.1);
+}
+.button:active {
+  color: #fff;
+  background-color: #ff52bf;
+}
