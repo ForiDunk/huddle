@@ -1,0 +1,31 @@
+.section1 {
+  background-color:hsl(207, 100%, 98%);
+}
+.section1:before,
+.section1:after {
+  content: '';
+  background-size: contain;
+  width: 100%;
+  height: 200px;
+  background-repeat: no-repeat;
+  position: absolute;
+  display: inline-block;
+}
+.section1:before {
+  background-image: url('../images/bg-section-top-desktop-1.svg');
+  background-position: bottom;
+  top: -200px;
+}
+.section1:after {
+  background-image: url('../images/bg-section-bottom-desktop-1.svg');
+  background-position: top;
+  bottom: -200px;
+}
+
+.illustration-grow {
+  background-image: url('../images/illustration-grow-together.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 50%;
+  height: 75%;
+}

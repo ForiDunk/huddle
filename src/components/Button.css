@@ -1,0 +1,22 @@
+.button-primary {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  background-color: #ff52bf;
+  border: 1px solid #ff52bf;
+  border-radius: 30px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 15px 70px;
+  box-shadow: 2px 2px 10px 0px grey;
+  cursor: pointer;
+}
+
+.button-primary:hover {
+  background-color: rgba(255, 82, 192, 0.7);
+}
+
+.button-primary:active {
+  color: #ff52bf;
+  background-color: #fff;
+}

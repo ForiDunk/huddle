@@ -1,0 +1,39 @@
+.section {
+  position: relative;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 0 50px;
+}
+
+.text {
+  width: 50%;
+}
+
+.text h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 25px;
+  color: 	#00252e;
+}
+.text p {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  width: 80%;
+  color: 	#00252e;
+}
+.section4 {
+  text-align: center;
+  height: 500px;
+  margin-top: 200px;
+}
+.section4 h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  color: 	#00252e;
+}

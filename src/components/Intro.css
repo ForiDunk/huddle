@@ -15,7 +15,7 @@
   margin: 40px auto;
   font-size: 14px;
 }
-.intro .button {
+/* .intro .button {
   color: #fff;
   background-color: #ff52bf;
   display: inline-block;
@@ -30,7 +30,7 @@
 .intro .button:active {
   color: #ff52bf;
   background-color: #fff;
-}
+} */
 
 .screen-mockups {
   background-image: url('../images/screen-mockups.svg');
@@ -47,6 +47,7 @@
 .stats {
   display: flex;
   justify-content: space-around;
+  margin-top: 80px;
 }
 
 .community,

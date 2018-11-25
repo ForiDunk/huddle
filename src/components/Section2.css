@@ -1,0 +1,11 @@
+.section2 {
+  background-color: #fff;
+}
+
+.illustration-flowing {
+  background-image: url('../images/illustration-flowing-conversation.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 50%;
+  height: 75%;
+}

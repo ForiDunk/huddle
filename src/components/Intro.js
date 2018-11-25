@@ -1,11 +1,12 @@
 import React from 'react';
 import './Intro.css';
+import Button from './Button';
 
 export default () => (
   <div className="intro">
     <h2>Build The Community Your Fans Will Love</h2>
     <p className="description">Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in geniune discussion.</p>
-    <div className="button">Get Started For Free</div>
+    <Button text={'Get Started For Free'} />
     <div className="screen-mockups"></div>
     <div className="stats">
       <div className="community">
