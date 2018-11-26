@@ -26,6 +26,16 @@
   background-image: url('../images/illustration-your-users.svg');
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: center;
   width: 50%;
   height: 75%;
+}
+
+@media (max-width: 375px) {
+  .section2:before {
+    background-image: url('../images/bg-section-top-mobile-2.svg');
+  }
+  .section2:after {
+    background-image: url('../images/bg-section-bottom-mobile-2.svg');
+  }
 }

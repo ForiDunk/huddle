@@ -6,6 +6,7 @@
   background-image: url('../images/illustration-flowing-conversation.svg');
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: center;
   width: 50%;
   height: 75%;
 }

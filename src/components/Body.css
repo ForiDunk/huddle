@@ -37,3 +37,22 @@
   font-size: 40px;
   color: 	#00252e;
 }
+
+@media (max-width: 900px) {
+  .text {
+    width: 45%;
+  }
+  .text p {
+    width: 100%;
+  }
+}
+
+@media (max-width: 700px) {
+  .section {
+    flex-direction: column-reverse;
+  }
+  .section div {
+    width: 100%;
+    text-align: center;
+  }
+}
