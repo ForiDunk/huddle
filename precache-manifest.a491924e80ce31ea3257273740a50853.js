@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "08bcad6f67cc70217d1a",
-    "url": "/huddle/static/css/main.04ac0b51.chunk.css"
+    "revision": "f855998365e6b5e0b0d5",
+    "url": "/huddle/static/css/main.58f37400.chunk.css"
   },
   {
-    "revision": "08bcad6f67cc70217d1a",
-    "url": "/huddle/static/js/main.08bcad6f.chunk.js"
+    "revision": "f855998365e6b5e0b0d5",
+    "url": "/huddle/static/js/main.f8559983.chunk.js"
   },
   {
     "revision": "3e5214f911669c22ef2d",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/logo.3cb86730.svg"
   },
   {
-    "revision": "1203b299cf1910559663db88126d869e",
-    "url": "/huddle/static/media/icon-messages.1203b299.svg"
-  },
-  {
     "revision": "4918e1492526a96242981765fe4321ae",
     "url": "/huddle/static/media/icon-communities.4918e149.svg"
+  },
+  {
+    "revision": "1203b299cf1910559663db88126d869e",
+    "url": "/huddle/static/media/icon-messages.1203b299.svg"
   },
   {
     "revision": "88090acec5276438b135a468364edf12",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/bg-section-bottom-desktop-1.3bd921c0.svg"
   },
   {
-    "revision": "8acafd86a2f5b53735ef9f2a6bb01c21",
-    "url": "/huddle/static/media/bg-section-top-mobile-1.8acafd86.svg"
-  },
-  {
     "revision": "6ef9dec4bd60b1c2c7915108316f5d75",
     "url": "/huddle/static/media/bg-section-bottom-mobile-1.6ef9dec4.svg"
+  },
+  {
+    "revision": "8acafd86a2f5b53735ef9f2a6bb01c21",
+    "url": "/huddle/static/media/bg-section-top-mobile-1.8acafd86.svg"
   },
   {
     "revision": "bb27da81d1984faa5ef57668534ff1a5",
@@ -56,16 +56,16 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/illustration-flowing-conversation.6641e825.svg"
   },
   {
-    "revision": "b50e8db3ede21a31f7c0d70c6c3bfea1",
-    "url": "/huddle/static/media/bg-section-top-desktop-2.b50e8db3.svg"
-  },
-  {
     "revision": "775fc190a337d0bf134480fad7cd1586",
     "url": "/huddle/static/media/bg-section-bottom-desktop-2.775fc190.svg"
   },
   {
     "revision": "035f180f9474a862063248ad9b0f00cc",
     "url": "/huddle/static/media/bg-section-top-mobile-2.035f180f.svg"
+  },
+  {
+    "revision": "b50e8db3ede21a31f7c0d70c6c3bfea1",
+    "url": "/huddle/static/media/bg-section-top-desktop-2.b50e8db3.svg"
   },
   {
     "revision": "8669861a6b4ad7d6a4dd47993ec35a89",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/bg-footer-top-desktop.6a2a7d2b.svg"
   },
   {
-    "revision": "dfb5ce402e6e000f53ec91867a6294cc",
+    "revision": "feab43b26015a59f490b09b76a04f468",
     "url": "/huddle/index.html"
   }
 ];
