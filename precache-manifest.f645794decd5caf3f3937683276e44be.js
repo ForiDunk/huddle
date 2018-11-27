@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "601b12d2564b7e1b21f1",
-    "url": "/huddle/static/css/main.4ba0a10c.chunk.css"
+    "revision": "0f68c31548c62ed43ee2",
+    "url": "/huddle/static/css/main.62d59faa.chunk.css"
   },
   {
-    "revision": "601b12d2564b7e1b21f1",
-    "url": "/huddle/static/js/main.601b12d2.chunk.js"
+    "revision": "0f68c31548c62ed43ee2",
+    "url": "/huddle/static/js/main.0f68c315.chunk.js"
   },
   {
     "revision": "3e5214f911669c22ef2d",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/bg-section-bottom-desktop-1.3bd921c0.svg"
   },
   {
-    "revision": "6ef9dec4bd60b1c2c7915108316f5d75",
-    "url": "/huddle/static/media/bg-section-bottom-mobile-1.6ef9dec4.svg"
-  },
-  {
     "revision": "8acafd86a2f5b53735ef9f2a6bb01c21",
     "url": "/huddle/static/media/bg-section-top-mobile-1.8acafd86.svg"
+  },
+  {
+    "revision": "6ef9dec4bd60b1c2c7915108316f5d75",
+    "url": "/huddle/static/media/bg-section-bottom-mobile-1.6ef9dec4.svg"
   },
   {
     "revision": "bb27da81d1984faa5ef57668534ff1a5",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/bg-footer-top-desktop.6a2a7d2b.svg"
   },
   {
-    "revision": "9b9bf5d4c497de1830f383cf020715ac",
+    "revision": "ebc7bdbafbaee8d9133b4994c8f1d7e3",
     "url": "/huddle/index.html"
   }
 ];
