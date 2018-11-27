@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/icon-messages.1203b299.svg"
   },
   {
-    "revision": "88090acec5276438b135a468364edf12",
-    "url": "/huddle/static/media/screen-mockups.88090ace.svg"
-  },
-  {
     "revision": "4918e1492526a96242981765fe4321ae",
     "url": "/huddle/static/media/icon-communities.4918e149.svg"
   },
   {
-    "revision": "3bd921c0d2fac634b2cff66402bb074c",
-    "url": "/huddle/static/media/bg-section-bottom-desktop-1.3bd921c0.svg"
+    "revision": "88090acec5276438b135a468364edf12",
+    "url": "/huddle/static/media/screen-mockups.88090ace.svg"
   },
   {
     "revision": "bd9436af597514dd65ca5d639f1858ba",
     "url": "/huddle/static/media/bg-section-top-desktop-1.bd9436af.svg"
+  },
+  {
+    "revision": "3bd921c0d2fac634b2cff66402bb074c",
+    "url": "/huddle/static/media/bg-section-bottom-desktop-1.3bd921c0.svg"
   },
   {
     "revision": "8acafd86a2f5b53735ef9f2a6bb01c21",
