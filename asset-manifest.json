@@ -7,13 +7,13 @@
   "runtime~main.js": "/huddle/static/js/runtime~main.429adb54.js",
   "runtime~main.js.map": "/huddle/static/js/runtime~main.429adb54.js.map",
   "static/media/Header.css": "/huddle/static/media/logo.3cb86730.svg",
-  "static/media/Intro.css": "/huddle/static/media/icon-messages.1203b299.svg",
+  "static/media/Intro.css": "/huddle/static/media/screen-mockups.88090ace.svg",
   "static/media/Section1.css": "/huddle/static/media/illustration-grow-together.bb27da81.svg",
   "static/media/Section2.css": "/huddle/static/media/illustration-flowing-conversation.6641e825.svg",
   "static/media/Section3.css": "/huddle/static/media/illustration-your-users.8a5af995.svg",
   "static/media/Footer.css": "/huddle/static/media/bg-footer-top-desktop.6a2a7d2b.svg",
   "static/css/main.81cc8b94.chunk.css.map": "/huddle/static/css/main.81cc8b94.chunk.css.map",
   "index.html": "/huddle/index.html",
-  "precache-manifest.44207d11dd7445643b5849a8d98ab0fc.js": "/huddle/precache-manifest.44207d11dd7445643b5849a8d98ab0fc.js",
+  "precache-manifest.e7aeb22db98f366e762f8a33bf5d3864.js": "/huddle/precache-manifest.e7aeb22db98f366e762f8a33bf5d3864.js",
   "service-worker.js": "/huddle/service-worker.js"
 }
