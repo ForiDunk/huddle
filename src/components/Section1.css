@@ -30,6 +30,12 @@
   width: 50%;
   height: 75%;
 }
+@media (min-width: 1670px) {
+  .section1:before,
+  .section1:after {
+    height: 210px;
+  }
+}
 
 @media (max-width: 375px) {
   .section1:before {

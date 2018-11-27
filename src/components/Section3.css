@@ -30,12 +30,18 @@
   width: 50%;
   height: 75%;
 }
+@media (min-width: 1670px) {
+  .section3:before,
+  .section3:after {
+    height: 210px;
+  }
+}
 
 @media (max-width: 375px) {
-  .section2:before {
+  .section3:before {
     background-image: url('../images/bg-section-top-mobile-2.svg');
   }
-  .section2:after {
+  .section3:after {
     background-image: url('../images/bg-section-bottom-mobile-2.svg');
   }
 }
