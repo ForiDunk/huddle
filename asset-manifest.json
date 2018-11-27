@@ -1,7 +1,7 @@
 {
-  "main.css": "/huddle/static/css/main.b90ccbcd.chunk.css",
-  "main.js": "/huddle/static/js/main.0eb86f0d.chunk.js",
-  "main.js.map": "/huddle/static/js/main.0eb86f0d.chunk.js.map",
+  "main.css": "/huddle/static/css/main.bc1d712d.chunk.css",
+  "main.js": "/huddle/static/js/main.a62a4c10.chunk.js",
+  "main.js.map": "/huddle/static/js/main.a62a4c10.chunk.js.map",
   "static/js/1.3e5214f9.chunk.js": "/huddle/static/js/1.3e5214f9.chunk.js",
   "static/js/1.3e5214f9.chunk.js.map": "/huddle/static/js/1.3e5214f9.chunk.js.map",
   "runtime~main.js": "/huddle/static/js/runtime~main.429adb54.js",
@@ -12,8 +12,8 @@
   "static/media/Section2.css": "/huddle/static/media/illustration-flowing-conversation.6641e825.svg",
   "static/media/Section3.css": "/huddle/static/media/illustration-your-users.8a5af995.svg",
   "static/media/Footer.css": "/huddle/static/media/bg-footer-top-desktop.6a2a7d2b.svg",
-  "static/css/main.b90ccbcd.chunk.css.map": "/huddle/static/css/main.b90ccbcd.chunk.css.map",
+  "static/css/main.bc1d712d.chunk.css.map": "/huddle/static/css/main.bc1d712d.chunk.css.map",
   "index.html": "/huddle/index.html",
-  "precache-manifest.0eafe24dca6d4fcd6f4e89034f6ad88b.js": "/huddle/precache-manifest.0eafe24dca6d4fcd6f4e89034f6ad88b.js",
+  "precache-manifest.14fba2f0e5d3669485ccb2c156f9adef.js": "/huddle/precache-manifest.14fba2f0e5d3669485ccb2c156f9adef.js",
   "service-worker.js": "/huddle/service-worker.js"
 }
