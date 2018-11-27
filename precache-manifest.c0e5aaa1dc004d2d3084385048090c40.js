@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f8cc815d31e501a8a00d",
-    "url": "/huddle/static/css/main.34a6c465.chunk.css"
+    "revision": "08bcad6f67cc70217d1a",
+    "url": "/huddle/static/css/main.04ac0b51.chunk.css"
   },
   {
-    "revision": "f8cc815d31e501a8a00d",
-    "url": "/huddle/static/js/main.f8cc815d.chunk.js"
+    "revision": "08bcad6f67cc70217d1a",
+    "url": "/huddle/static/js/main.08bcad6f.chunk.js"
   },
   {
     "revision": "3e5214f911669c22ef2d",
@@ -20,28 +20,28 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/logo.3cb86730.svg"
   },
   {
-    "revision": "88090acec5276438b135a468364edf12",
-    "url": "/huddle/static/media/screen-mockups.88090ace.svg"
+    "revision": "1203b299cf1910559663db88126d869e",
+    "url": "/huddle/static/media/icon-messages.1203b299.svg"
   },
   {
     "revision": "4918e1492526a96242981765fe4321ae",
     "url": "/huddle/static/media/icon-communities.4918e149.svg"
   },
   {
-    "revision": "1203b299cf1910559663db88126d869e",
-    "url": "/huddle/static/media/icon-messages.1203b299.svg"
+    "revision": "88090acec5276438b135a468364edf12",
+    "url": "/huddle/static/media/screen-mockups.88090ace.svg"
   },
   {
     "revision": "bd9436af597514dd65ca5d639f1858ba",
     "url": "/huddle/static/media/bg-section-top-desktop-1.bd9436af.svg"
   },
   {
-    "revision": "8acafd86a2f5b53735ef9f2a6bb01c21",
-    "url": "/huddle/static/media/bg-section-top-mobile-1.8acafd86.svg"
-  },
-  {
     "revision": "3bd921c0d2fac634b2cff66402bb074c",
     "url": "/huddle/static/media/bg-section-bottom-desktop-1.3bd921c0.svg"
+  },
+  {
+    "revision": "8acafd86a2f5b53735ef9f2a6bb01c21",
+    "url": "/huddle/static/media/bg-section-top-mobile-1.8acafd86.svg"
   },
   {
     "revision": "6ef9dec4bd60b1c2c7915108316f5d75",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/bg-footer-top-desktop.6a2a7d2b.svg"
   },
   {
-    "revision": "71f6f052798c1d605556f381e2eb64cb",
+    "revision": "dfb5ce402e6e000f53ec91867a6294cc",
     "url": "/huddle/index.html"
   }
 ];
