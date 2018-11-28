@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e0ebdc968fb53ff2326a",
-    "url": "/huddle/static/css/main.f9505ba6.chunk.css"
+    "revision": "504de0c92830cdcb71ce",
+    "url": "/huddle/static/css/main.31324ca4.chunk.css"
   },
   {
-    "revision": "e0ebdc968fb53ff2326a",
-    "url": "/huddle/static/js/main.e0ebdc96.chunk.js"
+    "revision": "504de0c92830cdcb71ce",
+    "url": "/huddle/static/js/main.504de0c9.chunk.js"
   },
   {
     "revision": "3e5214f911669c22ef2d",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/logo.3cb86730.svg"
   },
   {
-    "revision": "4918e1492526a96242981765fe4321ae",
-    "url": "/huddle/static/media/icon-communities.4918e149.svg"
-  },
-  {
     "revision": "88090acec5276438b135a468364edf12",
     "url": "/huddle/static/media/screen-mockups.88090ace.svg"
   },
   {
     "revision": "1203b299cf1910559663db88126d869e",
     "url": "/huddle/static/media/icon-messages.1203b299.svg"
+  },
+  {
+    "revision": "4918e1492526a96242981765fe4321ae",
+    "url": "/huddle/static/media/icon-communities.4918e149.svg"
   },
   {
     "revision": "bd9436af597514dd65ca5d639f1858ba",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/bg-section-top-desktop-2.b50e8db3.svg"
   },
   {
-    "revision": "035f180f9474a862063248ad9b0f00cc",
-    "url": "/huddle/static/media/bg-section-top-mobile-2.035f180f.svg"
-  },
-  {
     "revision": "775fc190a337d0bf134480fad7cd1586",
     "url": "/huddle/static/media/bg-section-bottom-desktop-2.775fc190.svg"
+  },
+  {
+    "revision": "035f180f9474a862063248ad9b0f00cc",
+    "url": "/huddle/static/media/bg-section-top-mobile-2.035f180f.svg"
   },
   {
     "revision": "8669861a6b4ad7d6a4dd47993ec35a89",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/bg-footer-top-desktop.6a2a7d2b.svg"
   },
   {
-    "revision": "a0e0d5ad3684bf567194a407e0d57bf4",
+    "revision": "eccf06119ce031e891ad549faa79c6a5",
     "url": "/huddle/index.html"
   }
 ];
