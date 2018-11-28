@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "60c63be6067e3ee6c9f6",
-    "url": "/huddle/static/css/main.84eb7611.chunk.css"
+    "revision": "2542ffc77f40fde29c5e",
+    "url": "/huddle/static/css/main.39d26ddd.chunk.css"
   },
   {
-    "revision": "60c63be6067e3ee6c9f6",
-    "url": "/huddle/static/js/main.60c63be6.chunk.js"
+    "revision": "2542ffc77f40fde29c5e",
+    "url": "/huddle/static/js/main.2542ffc7.chunk.js"
   },
   {
     "revision": "3e5214f911669c22ef2d",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/logo.3cb86730.svg"
   },
   {
-    "revision": "4918e1492526a96242981765fe4321ae",
-    "url": "/huddle/static/media/icon-communities.4918e149.svg"
-  },
-  {
     "revision": "1203b299cf1910559663db88126d869e",
     "url": "/huddle/static/media/icon-messages.1203b299.svg"
   },
   {
     "revision": "88090acec5276438b135a468364edf12",
     "url": "/huddle/static/media/screen-mockups.88090ace.svg"
+  },
+  {
+    "revision": "4918e1492526a96242981765fe4321ae",
+    "url": "/huddle/static/media/icon-communities.4918e149.svg"
   },
   {
     "revision": "3bd921c0d2fac634b2cff66402bb074c",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/huddle/static/media/bg-footer-top-desktop.6a2a7d2b.svg"
   },
   {
-    "revision": "68eb9410f40d8e419a76a168563a1f91",
+    "revision": "09d3f05353db2cad02bd49f2df3ffdaa",
     "url": "/huddle/index.html"
   }
 ];
