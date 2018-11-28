@@ -70,8 +70,13 @@
 @media (max-width: 512px) {
   .stats {
     flex-direction: column;
+    margin: 0;
   }
   .messages {
     margin-top: 100px;
+  }
+  .screen-mockups {
+    height: 500px;
+    margin: 0;
   }
 }

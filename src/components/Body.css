@@ -50,9 +50,14 @@
 @media (max-width: 700px) {
   .section {
     flex-direction: column-reverse;
+    margin-top: 170px;
   }
   .section div {
     width: 100%;
     text-align: center;
+  }
+  .section4 {
+    margin-top: 170px;
+    height: 200px;
   }
 }
