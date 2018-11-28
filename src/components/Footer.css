@@ -14,13 +14,13 @@
   content: '';
   background-size: contain;
   width: 100%;
-  height: 199px;
+  height: 200px;
   background-repeat: no-repeat;
   position: absolute;
   display: inline-block;
   background-image: url('../images/bg-footer-top-desktop.svg');
   background-position: bottom;
-  top: -200px;
+  top: -199px;
 }
 
 .footer .logo {
